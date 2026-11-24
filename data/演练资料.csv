@@ -1,0 +1,4 @@
+﻿building,part,material,relation,certainty,condition
+B1,P1,木,支承P2,confirmed,健全
+B1,P2,未知,承接P3,unknown,裂纹
+B2,P4,石,支承P5,inferred,待查
