@@ -1,0 +1,4 @@
+﻿plan_id,building_id,part_id,order_no,basis
+PL1,B1,P1,1,旧安排
+PL2,B1,P2,2,待补测
+PL3,B1,P3,3,关系待核

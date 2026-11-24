@@ -1,0 +1,4 @@
+﻿part_id,building_id,term,material,certainty,role,replaced_by
+P1,B1,柱,木,confirmed,支承P2,
+P2,B1,梁,未知,unknown,承接P3,
+P3,B1,椽,木,inferred,承瓦,

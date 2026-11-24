@@ -1,0 +1,4 @@
+﻿observation_id,from_part,to_part,relation,source_id,date
+O1,P1,P2,支承,DOC1,2026-03
+O2,P2,P3,承接,IMG2,2026-03
+O3,P1,P2,支承,DOC3,2026-05
